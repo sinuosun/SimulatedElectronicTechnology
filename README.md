@@ -1,6 +1,6 @@
 # 模拟电子技术学习笔记
 
-一套使用 [Obsidian](https://obsidian.md/) 整理的模拟电子技术学习笔记，内容从电路抽象与电阻网络出发，逐步覆盖网络定理、非线性元件、储能元件以及一、二阶暂态分析。
+一套使用 [Obsidian](https://obsidian.md/) 整理的模拟电子技术学习笔记，内容从电路抽象与电阻网络出发，逐步覆盖网络定理、非线性元件、暂态分析、正弦稳态、双口网络、频率响应与滤波器，并已进入半导体基础知识。
 
 > 本仓库仍在持续整理中，公式、例题与章节结构会随学习进度更新。
 
@@ -15,6 +15,10 @@
 | [5. 储能元件](SimulatedElectronic/5.%E5%82%A8%E8%83%BD%E5%85%83%E4%BB%B6.md) | 电容、电感、寄生参数、变压器与典型激励 |
 | [6. 一阶暂态](SimulatedElectronic/6.%2A%2A%E4%B8%80%E9%98%B6%E6%9A%82%E6%80%81%2A%2A.md) | RC/RL 电路、一阶微分方程、自然响应与受迫响应 |
 | [7. 二阶暂态](SimulatedElectronic/7.%2A%2A%E4%BA%8C%E9%98%B6%E6%9A%82%E6%80%81%2A%2A.md) | RLC 电路与二阶系统响应（持续补充中） |
+| [8. 正弦稳态](SimulatedElectronic/8.%E6%AD%A3%E5%BC%A6%E7%A8%B3%E6%80%81.md) | 正弦量、相量法、阻抗/导纳与交流稳态电路分析 |
+| [8.2 频率响应和滤波器](SimulatedElectronic/8.2%20%E9%A2%91%E7%8E%87%E5%93%8D%E5%BA%94%E5%92%8C%E6%BB%A4%E6%B3%A2%E5%99%A8.md) | 频率响应、波特图与滤波器基础 |
+| [9. 双口网络](SimulatedElectronic/9.%E5%8F%8C%E5%8F%A3%E7%BD%91%E7%BB%9C.md) | 双口网络的参数表示与基本分析方法 |
+| [10.1 半导体基础知识](SimulatedElectronic/10.1%20%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%20Semiconductor%20Fundamentals.md) | 载流子、本征与杂质半导体、PN 结、二极管、BJT 与 FET/MOSFET |
 
 ## 使用方法
 
@@ -42,6 +46,10 @@ SimulatedElectronicTechnology/SimulatedElectronic
     ├── 1.电路抽象.md
     ├── ...
     ├── 7.**二阶暂态**.md
+    ├── 8.正弦稳态.md
+    ├── 8.2 频率响应和滤波器.md
+    ├── 9.双口网络.md
+    ├── 10.1 半导体基础知识 Semiconductor Fundamentals.md
     └── *.png            # 笔记配图
 ```
 
