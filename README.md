@@ -19,6 +19,11 @@
 | [8.2 频率响应和滤波器](SimulatedElectronic/8.2%20%E9%A2%91%E7%8E%87%E5%93%8D%E5%BA%94%E5%92%8C%E6%BB%A4%E6%B3%A2%E5%99%A8.md) | 频率响应、波特图与滤波器基础 |
 | [9. 双口网络](SimulatedElectronic/9.%E5%8F%8C%E5%8F%A3%E7%BD%91%E7%BB%9C.md) | 双口网络的参数表示与基本分析方法 |
 | [10.1 半导体基础知识](SimulatedElectronic/10.1%20%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%20Semiconductor%20Fundamentals.md) | 载流子、本征与杂质半导体、PN 结、二极管、BJT 与 FET/MOSFET |
+| [10.2 MOSFET 大信号](SimulatedElectronic/10.2%20MOSFET%20%E5%A4%A7%E4%BF%A1%E5%8F%B7.md) | 工作区、负载线、偏置与有效摆幅 |
+| [10.3 MOSFET 小信号](SimulatedElectronic/10.3%20MOSFET%20%E5%B0%8F%E4%BF%A1%E5%8F%B7.md) | 跨导、交流等效电路与带载增益 |
+| [10.4 MOSFET 放大器组态](SimulatedElectronic/10.4%20MOSFET%20%E6%94%BE%E5%A4%A7%E5%99%A8%E7%BB%84%E6%80%81.md) | 共源、共栅与源极跟随器 |
+| [10.5 BJT 放大器](SimulatedElectronic/10.5%20BJT%20%E6%94%BE%E5%A4%A7%E5%99%A8.md) | 直流偏置、混合 π 模型与基本组态 |
+| [10.6 差分放大器](SimulatedElectronic/10.6%20%E5%B7%AE%E5%88%86%E6%94%BE%E5%A4%A7%E5%99%A8.md) | 电流转向、差模与共模增益、CMRR |
 
 ## 使用方法
 
